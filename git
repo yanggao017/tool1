@@ -17,3 +17,4 @@ lib.txt除外
 公钥ssh
 C:/user/xxx/.sh/id_rsa.pub
 
+git push -u origin master
