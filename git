@@ -1,0 +1,19 @@
+初始化本地仓库
+git init
+克隆远程仓库
+git clone url
+
+git文件操作
+git add . #添加所有文件到暂存区
+git commit -m #提交暂存区内容到本地仓库
+git status
+
+.gitignore
+忽略所有txt文件
+*.txt 
+lib.txt除外
+！lib.txt
+
+公钥ssh
+C:/user/xxx/.sh/id_rsa.pub
+
